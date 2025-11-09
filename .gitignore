@@ -1,0 +1,13 @@
+# Build outputs
+/target/
+
+# Logs
+*.log
+*.log.*
+
+# IDE / tooling
+.vscode/
+
+# OS / misc
+.DS_Store
+Thumbs.db
