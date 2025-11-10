@@ -67,4 +67,7 @@ Removing items updates storage in real-time
 🔸 Payment integration
 🔸 Search & filters
 🔸 Admin products dashboard
+<img width="1912" height="1148" alt="Screenshot 2025-11-11 005647" src="https://github.com/user-attachments/assets/890a2ac9-065f-4065-ade6-7fa31740b8ac" />
+<img width="1877" height="1115" alt="Screenshot 2025-11-11 005738" src="https://github.com/user-attachments/assets/821676e9-b1ab-4f7a-abc1-df00093d5d0d" />
+<img width="1863" height="1104" alt="Screenshot 2025-11-11 005707" src="https://github.com/user-attachments/assets/3087d90b-884b-4b46-8fdd-3f28afe70986" />
 
